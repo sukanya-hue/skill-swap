@@ -23,7 +23,7 @@ A web application built with **Bolt.new** that allows users to post, discover, a
 [Repository Link](https://github.com/sukanya-hue/skill-swap.git)
 
 ## 📹 Demo Video
-[Watch on Loom](your_loom_video_link_here)
+[Watch on Loom](https://www.loom.com/share/4cef3ab775214f78bd2384b1fa7df272?sid=9d450c2d-c50c-4560-be54-81f686583413)
 
 ---
 
